@@ -48,3 +48,10 @@ HTTP 응답은 요청에 의한 결과를 반환 한다.
 HTTP 버전은 서버에서 사용하는 HTTP 프로토콜의 버전을 나타낸다, HTTP상태코드는 요청에 대한 처리를 세자릿수로 나타냄 
 
 
+![image](https://user-images.githubusercontent.com/79100627/206826589-b263e14a-ff6e-4487-ad73-4f08adb589b0.png)
+
+## HTTPS 
+
+HTTP의 응답과 요청은 평문으로 전달된다. 
+
+HTTPS 는 TLS 프로토콜을 도입하여 암호화를 한다. 공격자가 중간에 메세지를 탈취하더라도 이를 해석하는것은 불가능하다. 
