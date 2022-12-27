@@ -40,6 +40,4 @@ XSS 에 사용되는 악성 스크립트가 URL Fragment 에 삽입되는 XSS
 
 <img width="637" alt="image" src="https://user-images.githubusercontent.com/79100627/209705789-526c2d05-929e-460d-82aa-9197cae0de79.png">
 
-## XSS 스크립트 예시
 
-자바스크립트는 
